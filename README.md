@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url)http://multimitros.blogspot.gr and ![Image](src) https://www.facebook.com/mitros.tziavaras.multimitros/photos/a.952390574891587.1073741828.948310845299560/952391191558192/?type=3
+[Link](url)http://multimitros.blogspot.gr and ![Image](src) https://www.facebook.com/mitros1973 mitros.tziavaras.multimitros/photos/a.952390574891587.1073741828.948310845299560/952391191558192/?type=3
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
